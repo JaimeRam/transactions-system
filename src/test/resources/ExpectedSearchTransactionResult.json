@@ -1,0 +1,34 @@
+[
+  {
+    "reference": "DF554F",
+    "accountIban": "ES9820385778983000760236",
+    "date": "2021-07-16T18:55:42",
+    "amount": 43.84,
+    "fee": 1.21,
+    "description": "PayPal"
+  },
+  {
+    "reference": "LG545F",
+    "accountIban": "ES9820385778983000760236",
+    "date": "2023-07-16T18:55:42",
+    "amount": 48.12,
+    "fee": 4.32,
+    "description": "Netflix"
+  },
+  {
+    "reference": "12345A",
+    "accountIban": "ES9820385778983000760236",
+    "date": "2019-07-16T18:55:42",
+    "amount": 193.38,
+    "fee": 3.18,
+    "description": "Restaurant payment"
+  },
+  {
+    "reference": "1545F",
+    "accountIban": "ES9820385778983000760236",
+    "date": "2021-07-16T18:55:42",
+    "amount": 214.54,
+    "fee": 2.41,
+    "description": "Fuel"
+  }
+]
